@@ -1,10 +1,10 @@
+
 ---
-title: "Documentación"
-linkTitle: "Documentación"
-weight: 20
-menu:
-  main:
-    weight: 20
+title: "Tarjetas Base"
+linkTitle: "Tarjetas Base"
+weight: 2
+description: >
+  Low level reference docs for your project.
 ---
 
 {{% pageinfo %}}
